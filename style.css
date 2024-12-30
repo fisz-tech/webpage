@@ -56,7 +56,7 @@ body {
   opacity: 0.9;
   height: 200px;
   width: 200px;
-  background-image: url("https://jordizle.com/static/img/codepen/blank.png");
+  background-image: url(static/img/cube_face_basic.png);
   -webkit-touch-callout: none;
   -moz-touch-callout: none;
   -ms-touch-callout: none;
